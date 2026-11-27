@@ -1,0 +1,3 @@
+produto|10|5
+produto|10|5
+produto|2|2
